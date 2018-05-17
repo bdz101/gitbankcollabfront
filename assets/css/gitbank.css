@@ -1,5 +1,4 @@
 
- 
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:300,600');
 
 :root {
@@ -205,5 +204,19 @@ nav a:hover {
   background-color: white;
 
  }
+
+.WeAre {
+ text-align:center;
+ color:black;
+ background-color:white;
+ margin-bottom: 900px;
+ float: left;
+ height: 260px;
+ width: 800px;
+ border-radius: 25px;
+  }
+
+
+
 
 
